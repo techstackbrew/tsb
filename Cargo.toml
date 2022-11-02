@@ -8,7 +8,7 @@ description = "This is the CLI tool for Tech Stack Brewing"
 readme = "README.md"
 homepage = "https://www.techstackbrewing.com"
 repository = "https://github.com/techstackbrew/tsb"
-keywords = ["cli", "brewing", "beer", "tech stack brewing"]
+keywords = ["cli", "brewing", "beer"]
 categories = ["command-line-utilities"]
 
 [dependencies]
