@@ -1,0 +1,15 @@
+[package]
+name = "tsb"
+version = "0.1.0"
+edition = "2018"
+authors = ["Drew Morris <drew@techstackbrewing.com>"]
+license = "MIT"
+description = "This is the CLI tool for Tech Stack Brewing"
+readme = "README.md"
+homepage = "https://www.techstackbrewing.com"
+repository = "https://github.com/techstackbrew/tsb"
+keywords = ["cli", "brewing", "beer", "tech stack brewing"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+open = "3.0.3"
