@@ -9,7 +9,7 @@ If you have ideas for improvements, please feel free to submit an issue or fork 
 ## Getting Started
 
 ```bash
-curl -fsSL https://tsbrew.io/i.sh
+curl -fsSL https://tsbrew.io/i.sh | sh
 tsb
 tsb brew upgrade
 ```
